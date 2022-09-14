@@ -1,4 +1,5 @@
 ### Hi there 👋
+I completed the Full Stack Web Development course at Le Wagon and looking forward to growing my coding skills 🚀
 
 <!--
 **Szczepanowska/Szczepanowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
