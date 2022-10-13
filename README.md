@@ -1,5 +1,7 @@
 ### Hi there 👋
-I completed the Full Stack Web Development course at Le Wagon and looking forward to growing my coding skills 🚀
+I completed the Full Stack Web Development course at Le Wagon 🚀
+I'm constantly improving my skills by building Ruby on Rails projects and learning JavaScript 🤓👩‍💻
+When I'm not coding usually hike, walk or enjoy some reads based on facts. Alternatively cooking noodles 🐼
 
 <!--
 **Szczepanowska/Szczepanowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
